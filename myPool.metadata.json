@@ -2,5 +2,6 @@
   "name": "VelociCoin",
   "description": "Bare Bones AWS-backed Single Staking Pool",
   "ticker": "VELC",
-  "homepage": "https://velocicoin.github.io/"
+  "homepage": "https://velocicoin.github.io/",
+  "extended": "https://velocicoin.github.io/myPool.extended.json"
 }
