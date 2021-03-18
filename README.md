@@ -4,4 +4,4 @@ Welcome to the VelociCoin Cardano Staking Pool!  Are you up to the challenge of 
 
 ### 2021.03.18
 
-*First Day!* of the VelociCoin Stake Pool Era! Excited? Me too!
+*First Day!* of the VelociCoin Stake Pool Era! Excited? Me too! **LET'S DO THIS!**
